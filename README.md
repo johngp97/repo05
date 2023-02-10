@@ -1,5 +1,11 @@
 # repo05
 
+## diferencia entre No-fast-forward vs Fast-forward
+>"No fast forward" crea un nuevo commit sin incluir todos los commits de la rama secundaria
+>
+>"Fast forward" deplaza todos los commits de la rama secundaria en la rama principal
+
+
 ## paso1
 >Creamos 3 commits en la rama principal (el procedimiento detallado esta en el repo04)
 >
